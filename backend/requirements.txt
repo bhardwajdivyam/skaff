@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+pydantic
+supabase
+notion-client
+google-genai
+pdfplumber
+neo4j
