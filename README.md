@@ -127,7 +127,7 @@ Modular service layers:
 
 ## 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/your-username/skaff.git
+git clone https://github.com/bhardwajdivyam/skaff.git
 cd skaff
 ```
 
